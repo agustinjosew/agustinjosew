@@ -11,6 +11,10 @@
   <a href="https://github.com/agustinjosew"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinjosew&langs_count=10&layout=compact&theme=chartreuse-dark" alt="agustinjosew langs"></a>
 </p>  
 
+<p align="center"> 
+  <a href=""><img src="https://github-profile-trophy.vercel.app/?username=agustinjosew&theme=onedark&title=Commit,Repositories&column=2" alt="agustinjosew" /></a> 
+</p>
+
 <p align="center">
   <a href=""><img src="https://visitor-badge.glitch.me/badge?page_id=sagustinjosew.agustinjosew" alt="agustinjosew visitors"></a>
 </p>  
