@@ -22,11 +22,10 @@
 </p>
 
 <h2 align="justify">Languages and Tools that I have used at some point, what I am currently using or that generated a lot of curiosity in me:</h2>
-<p>
 
 ***
 
-</p>
+
 
 <details>
 <summary> View list for more information</summary>
