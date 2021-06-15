@@ -14,7 +14,7 @@
 #
 
 <p align="center">
-  <a href="https://github.com/agustinjosew"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinjosew&langs_count=10&layout=compact&theme=chartreuse-dark" alt="agustinjosew langs"></a>
+  <a href="https://github.com/agustinjosew"><img src="https://github-estadisticas-agustinjosew.vercel.app/api/top-langs/?username=agustinjosew&langs_count=10&layout=compact&theme=chartreuse-dark" alt="agustinjosew langs"></a>
 </p>  
 
 <p align="center"> 
