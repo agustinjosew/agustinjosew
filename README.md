@@ -13,13 +13,8 @@
 
 #
 
-<p align="center">
-  <a href="https://github.com/agustinjosew"><img src="https://github-estadisticas-agustinjosew.vercel.app/api/top-langs/?username=agustinjosew&langs_count=10&layout=compact&theme=chartreuse-dark" alt="agustinjosew langs"></a>
-</p>  
 
-<p align="center"> 
-  <a href=""><img src="https://github-profile-trophy.vercel.app/?username=agustinjosew&theme=onedark&title=Commit,Repositories&column=2" alt="agustinjosew" /></a> 
-</p>
+
 
 <h2 align="justify">Languages and Tools that I have used at some point, what I am currently using or that generated a lot of curiosity in me:</h2>
 
