@@ -1,104 +1,171 @@
-<h1 align="center">Hi, I'm Agustín J. Wawrzyk</h1>
-
-<h3 align="center">
-Cloud Engineer | DevOps Tech Lead | SecDevOps Architect
-</h3>
+<h1 align="center">Agustín J. Wawrzyk</h1>
 
 <p align="center">
-I design and automate secure cloud platforms using AWS, Azure, Terraform and Azure DevOps.
+  <b>Cloud Architect | DevOps Tech Lead | SecDevOps</b>
+</p>
+
+<p align="center">
+Designing secure, governed and scalable cloud platforms across AWS and Azure
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Azure-Enterprise-blue?style=for-the-badge&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform" />
+  <img src="https://img.shields.io/badge/DevSecOps-Governance-red?style=for-the-badge" />
 </p>
 
 ---
 
-## About me
+## Architectural Focus
 
-I am a Cloud and DevOps professional focused on building secure, scalable and automated infrastructure platforms.
+Cloud Architect and DevOps Tech Lead with experience designing and operating enterprise-grade platforms across AWS and Azure.
 
-My current work is centered around Infrastructure as Code, CI/CD standardization, cloud governance, security hardening and DevSecOps automation across AWS and Azure environments.
+Focused on building **secure, standardized and scalable cloud ecosystems**, aligning infrastructure engineering with governance, compliance and operational reliability.
 
-I enjoy transforming manual cloud operations into repeatable, controlled and auditable engineering workflows.
+My work is centered on:
 
----
-
-## Current focus
-
-- AWS and Azure cloud platform automation
-- Terraform module standardization
-- Azure DevOps pipeline design
-- DevSecOps and policy-as-code practices
-- Secure destroy flows and blast-radius control
-- AI-assisted cloud engineering workflows
+- Platform standardization across multiple environments and services  
+- Infrastructure as Code with enforced governance  
+- Deterministic and auditable CI/CD execution models  
+- Secure lifecycle management (create / modify / destroy)  
+- Alignment with enterprise controls (ISO 27001 / security frameworks)  
 
 ---
 
-## Core skills
+## Reference Architecture
 
-### Cloud & Infrastructure
-- AWS
-- Azure
-- Terraform
-- Kubernetes
-- Docker
+```mermaid
+flowchart LR
+A[Engineering Teams] --> B[Azure DevOps Pipelines]
 
-### DevOps & Automation
-- Azure DevOps
-- CI/CD pipelines
-- PowerShell
-- Bash
-- Git
+B --> C[Validation Layer]
+C --> D[Policy Enforcement]
+D --> E[Terraform Execution]
+
+E --> F[AWS Platform]
+E --> G[Azure Platform]
+
+F --> H[Security Controls]
+G --> H
+
+H --> I[Audit & Compliance]
+```
+
+## Core Capabilities
+
+### Cloud Platforms
+- AWS (multi-account strategy, service governance, secure architecture)
+- Azure (enterprise subscriptions, RBAC, policy-driven environments)
+
+### Infrastructure as Code
+- Terraform modular design (reusable and scalable)
+- Workspace isolation strategies
+- State management and lifecycle control
+- Controlled resource provisioning patterns
+
+### CI/CD Engineering
+- Azure DevOps pipeline architecture
+- Template standardization and reuse
+- Controlled execution flows
+- Environment segregation (dev / test / stage / prod)
 
 ### Security & Governance
-- ISO 27001 / ISO 27002
-- Cloud hardening
-- Policy as Code
-- Secure automation
-- Infrastructure validation
-
-### Development
-- C#
-- .NET Framework / .NET
-- TypeScript
-- Python
-- SQL Server / Oracle / PostgreSQL
+- Policy as Code implementation
+- Cloud hardening strategies
+- ISO 27001 / ISO 27002 alignment
+- Least privilege enforcement
+- Pre-deployment validation mechanisms
 
 ---
 
-## What I usually work on
+## Design Principles
 
-- Designing reusable Terraform modules
-- Creating enterprise-ready pipeline templates
-- Automating cloud provisioning workflows
-- Improving governance controls for cloud resources
-- Building validation layers before infrastructure deployment
-- Reducing operational risk in create / modify / destroy processes
-
----
-
-## Engineering principles
-
-- Automate repetitive work
-- Validate before deploying
-- Prefer secure defaults
-- Reduce blast radius
-- Keep infrastructure reproducible
-- Document decisions, not only code
+- Deterministic infrastructure over ad-hoc provisioning  
+- Governance embedded by design  
+- Controlled blast radius in all operations  
+- Validation before execution (inputs, structure, security)  
+- Clear separation of concerns across environments  
+- Standardization to reduce operational complexity  
 
 ---
 
-## GitHub profile goal
+## Engineering Approach
 
-This profile is focused on cloud engineering, DevOps automation, infrastructure governance and secure platform delivery.
+- Design reusable Terraform modules aligned with enterprise patterns  
+- Build pipelines as controlled execution systems, not just automation scripts  
+- Enforce naming conventions and structural validation  
+- Reduce operational risk through validation and isolation  
+- Ensure traceability, auditability and reproducibility  
 
 ---
 
-## Connect with me
+## What differentiates my approach
+
+- Focus on **governed automation**, not just automation  
+- Emphasis on **risk reduction and control mechanisms**  
+- Infrastructure treated as **testable and verifiable systems**  
+- Strong alignment between **engineering and compliance**  
+- Design decisions driven by **scalability and long-term maintainability**  
+
+## Enterprise Architecture Experience
+
+- Designing cloud platforms aligned with enterprise governance models  
+- Implementing Terraform-based standardization across multiple services  
+- Defining CI/CD patterns for large-scale environments  
+- Enforcing naming, structure and validation rules across teams  
+- Managing infrastructure lifecycle with controlled execution patterns  
+- Collaborating with security and compliance teams to align controls  
+
+---
+
+## Design Decisions
+
+- Workspace-based isolation to reduce blast radius  
+- Pre-validation layer before Terraform execution  
+- Strict naming conventions to avoid ambiguity  
+- Separation between pipeline orchestration and infrastructure logic  
+- Controlled destroy strategies to prevent unintended resource removal  
+
+---
+
+## Governance Model
+
+- Centralized pipeline control through templates  
+- Enforced naming and structural standards  
+- Environment-based segregation strategy  
+- Validation gates before infrastructure deployment  
+- Security and compliance checks integrated into pipelines  
+
+---
+
+## Current Work
+
+- Terraform standardization across AWS and Azure platforms  
+- DevSecOps testing strategies (unit, integration, E2E)  
+- Pipeline governance and validation layers  
+- Secure automation patterns for infrastructure lifecycle  
+- AI-assisted DevOps workflows for engineering productivity  
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agustinjosew&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustinjosew&theme=default" />
+</p>
+
+---
+
+## Contact
 
 <p align="left">
 <a href="https://linkedin.com/in/agustinjosew/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" height="50" width="100" />
+<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="40" />
 </a>
+</p>
 
-<a href="https://stackoverflow.com/users/6538854" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-official.svg" alt="StackOverflow" height="50" width="100" />
-</a>
+---
+
+<p align="center">
+  <i>Architecture is about designing controlled, predictable and secure systems at scale.</i>
 </p>
