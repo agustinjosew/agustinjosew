@@ -160,7 +160,7 @@ H --> I[Audit & Compliance]
 
 <p align="left">
 <a href="https://linkedin.com/in/agustinjosew/" target="blank">
-<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="40" />
+<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" />
 </a>
 </p>
 
